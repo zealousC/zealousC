@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 你好 👋 I'm zealous （万维千海）
+- 🔭 I’m currently working on AIGC and Full Stack Developer
+- 📫 How to reach me: www.wwqh.top
 
 <!--
 **zealousC/zealousC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
